@@ -2,6 +2,11 @@
 
 A simple test of possibilites of using Streamlit to deploy CV apps.
 
+
+![Armangleddon](screenshot.png)
+
+
+
 In the app, I'm calculating the angle of arm abduction (rasing the arm sideways), and tracking the data.
 The process goes something like this:
 
