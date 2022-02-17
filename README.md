@@ -23,12 +23,16 @@ The same principle can easily be applied to other body movement calculations.
 ______________________________________________________________________________________________________________________________________________
 
 # How to run
-Get your virtual environment ready and install 
+Get your virtual environment ready and install:
 
   streamlit - the GUI of the app
+
   mediapipe - pose detector (many other things too)
+
   pandas - data tables
+
   numpy - slice multi-dimensional array with ease (needed for fast image operations)
+
   opencv - image manipulation
 
 
