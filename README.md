@@ -25,19 +25,21 @@ ________________________________________________________________________________
 # How to run
 Get your virtual environment ready and install:
 
-  streamlit - the GUI of the app
+    streamlit - the GUI of the app
 
-  mediapipe - pose detector (many other things too)
+    mediapipe - pose detector (many other things too)
 
-  pandas - data tables
+    pandas - data tables
 
-  numpy - slice multi-dimensional array with ease (needed for fast image operations)
+    numpy - slice multi-dimensional array with ease (needed for fast image operations)
 
-  opencv - image manipulation
+    opencv - image manipulation
 
 
 Clone the repo, take a video of yourself in front of a wall waiving your hands, or use the video of the handsome gentleman I've left in the /static folder
+
 Run the app with "streamlit run app.py" from your command line
+
 Press "start" to start the video and "stop" to display the gathered data.
 
 I don't have a webcam at the moment, but if you want to try out live camera feed, simply replace 
@@ -58,4 +60,5 @@ ________________________________________________________________________________
 Read more about the subjects from the documentation:
 
 https://streamlit.io/
+
 https://mediapipe.dev/
