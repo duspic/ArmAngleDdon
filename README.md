@@ -13,7 +13,7 @@ The process goes something like this:
   1. Detect a person and find the pre-determined body points
   2. Extract coordinates of shoulders and elbows.
   3. Calculate the slope of lines on which shoulder-elbow pairs sit on
-  4. Calculate angle between that slope and flat horizontal one
+  4. Calculate angle between that slope and a flat horizontal line
   5. Draw an ajdustable protractor onto arms, to visualize the angles.
   6. Log the data for later viewing
   7. Display data and plot graph
